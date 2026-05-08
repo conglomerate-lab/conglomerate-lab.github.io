@@ -16,8 +16,8 @@ theme = 'blowfish'
     weight = 2
 
   [[menu.main]]
-    name = "People"
-    url = "/people/"
+    name = "Members"
+    url = "/members/"
     weight = 3
 
   [[menu.main]]
@@ -34,3 +34,40 @@ theme = 'blowfish'
     name = "Join Us"
     url = "/join/"
     weight = 6
+
+[markup] #to avoid '#' signs showing up on the website
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  defaultAppearance = "dark"
+  autoSwitchAppearance = false
+  logo = "logo.png"
+  copyright = "© 2026 Reihaneh Hosseini <br> Last updated: May 2026"
+
+[params.homepage]
+  layout = "background"
+  homepageImage = "!group.JPG"
+
+[params.author]
+name = "COnGloMERaTE"
+image = "logo.png"
+headline = "COmputatinal Granular MEchanics Research TEam"
+
+[params.header]
+  layout = "fixed"
+
+[params.article]
+  showDate = false
+  showViews = false
+  showLikes = false
+  showAuthor = false
+  showAuthorsBadges = false
+  showReadingTime = false
+  showWordCount = false
+  showTaxonomies = false
+  showEdit = false
+  showComments = false
+  showSharingLinks = false
+
