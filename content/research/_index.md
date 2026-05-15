@@ -13,13 +13,17 @@ Our group develops computational methods for coupled geomechanical systems, with
   </div>
 </div>
 
-<div class="research-card">
+<hr class="section-divider">
+
+<div class="research-card reverse">
   <img src="/images/research/thermal_3d.gif" alt="Multiphase flow">
   <div>
     <h2>Thermal and Multiphase Flow</h2>
     <p>We study coupled thermal and multiphase transport in geomaterials, with applications to energy geosystems and subsurface processes.</p>
   </div>
 </div>
+
+<hr class="section-divider">
 
 <div class="research-card">
   <img src="/images/research/software.jpg" alt="Computational software">

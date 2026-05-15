@@ -41,19 +41,18 @@ theme = 'blowfish'
       unsafe = true
 
 [params]
-  defaultAppearance = "dark"
-  autoSwitchAppearance = false
   logo = "logo.png"
   copyright = "© 2026 Reihaneh Hosseini <br> Last updated: May 2026"
+  disableImageZoom = true
 
 [params.homepage]
   layout = "background"
-  homepageImage = "!group.JPG"
+  homepageImage = "!background.png"
 
 [params.author]
-name = "COnGloMERaTE"
+name = "ConGloMeRaTe"
 image = "logo.png"
-headline = "COmputatinal Granular MEchanics Research TEam"
+headline = "Computational Granular & Multiphase Mechanics Research Team"
 
 [params.header]
   layout = "fixed"

@@ -1,5 +1,7 @@
-html {
-  font-size: 20px;
+.group-photo {
+  width: 100%;
+  max-width: 850px;
+  border-radius: 16px;
 }
 
 .section-divider {
@@ -41,6 +43,10 @@ html {
   gap: 2rem;
   align-items: flex-start;
   margin-bottom: 3rem;
+}
+
+.research-card.reverse {
+  flex-direction: row-reverse;
 }
 
 .research-card img {
