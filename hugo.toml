@@ -47,7 +47,7 @@ theme = 'blowfish'
 
 [params.homepage]
   layout = "background"
-  homepageImage = "!background.png"
+  homepageImage = "!group.JPG"
 
 [params.author]
 name = "ConGloMeRaTe"

@@ -25,11 +25,12 @@
 }
 
 .person-card img {
-  width: 400px;
+  width: min(400px, 100%);
   height: auto;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 12px;
+  flex-shrink: 0;
 }
 
 .person-card p {
@@ -71,3 +72,29 @@ html:not(.dark) body {
   background-color: #f8f5ef;  /* cream */
 }
 
+
+/* stack vertically on mobile */
+@media (max-width: 640px) {
+  .person-card,
+  .research-card,
+  .research-card.reverse {
+    flex-direction: column;
+  }
+
+  .person-card img {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .person-card {
+    gap: 0;
+  }
+
+  .person-card h2 {
+    margin-top: 0;
+  }
+
+  .person-card p {
+    margin-top: 0.3rem;
+  }
+}
