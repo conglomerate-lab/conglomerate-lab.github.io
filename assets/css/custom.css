@@ -13,30 +13,38 @@
 .section-title {
   font-size: 1.5rem;
   font-weight: 800;
-  !letter-spacing: 0.05em;
   text-transform: uppercase;
+  margin-bottom: 8px;
 }
 
 .person-card {
   display: flex;
-  gap: 2rem;
+  gap: 2rem; /* spacing between the image and the text */
   align-items: flex-start;
   margin-bottom: 2.5rem;
 }
 
 .person-card img {
-  width: min(400px, 100%);
+  width: min(420px, 100%);
   height: auto;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 12px;
   flex-shrink: 0;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.person-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
 }
 
 .person-card p {
   font-size: 1.2rem;
   line-height: 1.6;
   margin-top: 0.4rem;
+  text-align: justify;
 }
 
 .research-card {
@@ -81,20 +89,11 @@ html:not(.dark) body {
     flex-direction: column;
   }
 
-  .person-card img {
-    width: 100%;
-    max-width: 400px;
-  }
-
   .person-card {
     gap: 0;
   }
 
-  .person-card h2 {
-    margin-top: 0;
-  }
-
   .person-card p {
-    margin-top: 0.3rem;
+    text-align: left;
   }
 }

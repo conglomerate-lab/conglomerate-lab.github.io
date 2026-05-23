@@ -1,5 +1,6 @@
 ---
 title: "Software"
+layout: "simple"
 ---
 
-LBMphaseX
+Out team is currently in the process of developing LBMphaseX.
