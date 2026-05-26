@@ -26,8 +26,9 @@ layout: "simple"
   <img src="/images/members/sina.webp" alt="sina sadeghi">
   <div>
     <h2>Sina Sadeghi</h2>
-    <p>Sina Sadeghi is a PhD student in the geotechnical group in the Department of Civil and Environmental Engineering at Virginia Tech. He received his MS ([year]) and BS ([year]) in civil engineering from the University of Tehran. His research focuses on pore-scale numerical modeling of the <a href="../research/#cpt-tailings">cone penetration test (CPT)</a> in granular soils, with particular emphasis on capturing drainage behavior and the role of fluid-solid coupling on penetration resistance. He plans to extend this work to unsaturated conditions, motivated by the real-world risk of misinterpreting CPT measurements in tailings deposits where partial saturation can mask low densities and lead to catastrophic failure upon saturation.
-flooding.</p>
+    <p>Sina is a PhD student in the geotechnical group in the Department of Civil and Environmental Engineering at Virginia Tech. He received his MS ([year]) and BS ([year]) in civil engineering from the University of Tehran. His research focuses on pore-scale numerical modeling of the cone penetration test (CPT) in granular soils, with particular emphasis on capturing drainage behavior and the role of fluid-solid coupling on penetration resistance. He plans to extend this work to unsaturated conditions, motivated by the real-world risk of misinterpreting CPT measurements in tailings deposits where partial saturation can mask low densities and lead to catastrophic failure upon saturation.</p>
+    Project: <a href="/research/#unsat-cpt">Pore-Scale Mechanics of Cone Penetration in Unsaturated Mine Tailings</a> |
+    Member since: Spring 2024
   </div>
 </div>
 
@@ -36,6 +37,8 @@ flooding.</p>
   <div>
     <h2>Clara Toffoli</h2>
     <p>Clara is ...</p>
+    Project: <a href="/research/#effective-stress">Grain-scale Origins of Effective Stress in Unsaturated Soils</a> |
+    Member since: Fall 2023
   </div>
 </div>
 
@@ -43,6 +46,8 @@ flooding.</p>
   <img src="/images/members/behrooz.webp" alt="behrooz daneshian">
   <div>
     <h2>Behrooz Daneshian</h2>
-    <p>Behrooz works on ...</p>
+    <p>Behrooz is ...</p>
+    Project: <a href="/research/#frozen-soils">Pore-Scale Freezing Mechanisms in Saturated and Unsaturated Soils</a> |
+    Member since: Fall 2023
   </div>
 </div>
