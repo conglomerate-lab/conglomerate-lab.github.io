@@ -26,8 +26,8 @@ layout: "simple"
   <img src="/images/members/sina.webp" alt="sina sadeghi">
   <div>
     <h2>Sina Sadeghi</h2>
-    <p>Sina is a PhD student in the geotechnical group in the Department of Civil and Environmental Engineering at Virginia Tech. He received his MS (2021) and BS (2018) in civil engineering from the University of Tehran. His research focuses on pore-scale numerical modeling of the cone penetration test (CPT) in granular soils, with particular emphasis on capturing drainage behavior and the role of fluid-solid coupling on penetration resistance. He plans to extend this work to unsaturated conditions, motivated by the real-world risk of misinterpreting CPT measurements in tailings deposits where partial saturation can mask low densities and lead to catastrophic failure upon saturation.</p>
-    Project: <a href="/research/#unsat-cpt">Pore-Scale Mechanics of Cone Penetration in Unsaturated Mine Tailings</a> |
+    <p>Sina is a PhD student in the geotechnical group in the Department of Civil and Environmental Engineering at Virginia Tech. He received his MS (2021) and BS (2018) in civil engineering from the University of Tehran. Before joining Virginia Tech, he worked as a software developer and structural designer at StructurePlus, where he developed software for structural optimization. His research focuses on pore-scale numerical modeling of the cone penetration test (CPT) in granular soils, with particular emphasis on capturing drainage behavior and the role of fluid-solid coupling on penetration resistance. He plans to extend this work to unsaturated conditions, motivated by the real-world risk of misinterpreting CPT measurements in tailings deposits where partial saturation can mask low densities and lead to catastrophic failure upon saturation.</p>
+    Project: <a href="/research/#unsat-cpt">Grain- and Pore-Scale Mechanics of Cone Penetration in Granular Soils</a> |
     Member since: Spring 2024
   </div>
 </div>
@@ -36,8 +36,8 @@ layout: "simple"
   <img src="/images/members/clara.webp" alt="clara toffoli">
   <div>
     <h2>Clara Toffoli</h2>
-    <p>Clara is a PhD student in the geotechnical group in the Institute of Geotechnics and Construction Management at the Hamburg University of Technology (TUHH), Germany. She received her MS (2021) and her BS (2018) in civil engineering from the University of Brasilia, Brazil. Her current research focuses on pore-scale numerical modeling of multiphase granular material, with focus on understanding effective stresses in such materials. Her previous research includes mining topics and also synchrotron computed tomography of granular materials. Between her MS and PhD, she worked for 1.5 years in a mining consulting company in Belo Horizonte, Brazil, focusing on design and maintenance of tailing dams, dry-stacked tailings and open pit mines.</p>
-    Project: <a href="/research/#effective-stress">Grain-scale Origins of Effective Stress in Unsaturated Soils</a> |
+    <p>Clara is a PhD student in the geotechnical group in the Institute of Geotechnics and Construction Management at the Hamburg University of Technology (TUHH), Germany. She received her MS (2021) in geotechnics and her BS (2018) in civil engineering from the University of Brasilia, Brazil. Her current research focuses on pore-scale numerical modeling of multiphase granular material, with focus on understanding effective stresses in such materials. Her previous research includes mining topics and also synchrotron computed tomography of granular materials. Between her MS and PhD, she worked for 1.5 years in a mining consulting company in Belo Horizonte, Brazil, focusing on design and maintenance of tailing dams, dry-stacked tailings and open pit mines.</p>
+    Project: <a href="/research/#effective-stress">Micromechanical Behavior of Unsaturated Granular Soils</a> |
     Member since: Fall 2023
   </div>
 </div>
