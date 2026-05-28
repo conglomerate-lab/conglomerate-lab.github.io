@@ -7,12 +7,12 @@ Our research investigates the fundamental behavior of granular and multiphase fl
 
 <hr class="section-divider">
 
-<div id="unsat-cpt" class="research-card">
-  <img src="/images/research/cpt.gif" alt="cpt figure goes here">
-  <div>
-    <h2>Pore-Scale Mechanics of Cone Penetration in Unsaturated Mine Tailings</h2>
+<div id="unsat-cpt" class="research-card full-media">
+  <h2>Pore-Scale Mechanics of Cone Penetration in Unsaturated Mine Tailings</h2>
+  <video autoplay muted loop playsinline>
+    <source src="/videos/cpt.mp4" type="video/mp4">
+  </video>
     <p>Tailings storage facilities (TSFs) retain billions of tonnes of mining waste worldwide, and their failure can be catastrophic. Recent collapses in Brazil and Canada have caused hundreds of fatalities and released massive volumes of toxic slurry into surrounding ecosystems. A critical challenge in TSF safety is accurate material characterization, for which the cone penetration test (CPT) is the most widely used tool. However, existing CPT interpretation methods assume full saturation, while tailings in practice are often partially saturated. This mismatch can lead to unconservative estimates of soil strength, where a deposit may appear stable under CPT but become vulnerable to liquefaction and collapse once flooded. This project uses coupled LBM-DEM simulations to model CPT at the pore scale, directly resolving the interplay between drainage, fluid phases, and grain motion during penetration. The goal is to build a mechanistic understanding of how saturation state affects CPT resistance, ultimately improving the reliability of tailings characterization and reducing the risk of catastrophic failure.</p>
-  </div>
 </div>
 
 <hr class="section-divider">
