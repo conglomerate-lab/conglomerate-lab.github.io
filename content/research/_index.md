@@ -31,15 +31,17 @@ The projects below reflect our current research efforts to advance understanding
 
 <hr class="section-divider">
 
-<div id="effective-stress" class="research-card left">
+<div id="effective-stress" class="research-card top">
 
   <h2>Micromechanical Behavior of Unsaturated Granular Soils</h2>
 
   <div class="research-content">
     <figure>
-      <img src="/images/research/scmp_drainage_sametime.gif" alt="LBM-DEM coupling">
+      <video autoplay muted loop playsinline>
+        <source src="/videos/drainage_comparison.mp4" type="video/mp4">
+      </video>
       <figcaption>
-      LBM simulation of drying of a 2D porous media.
+      Comparison of drainage in a 2D porous medium as predicted by different LBM multifluid approaches (multiphase Shan–Chen, multicomponent Shan–Chen, and He–Chen–Zhang) and a physical model.
       </figcaption>
     </figure>
     <div>
