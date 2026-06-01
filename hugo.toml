@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'Conglomerate'
+title = 'ConGloMeRaTe'
 theme = 'blowfish'
 
 [menu]
@@ -42,7 +42,7 @@ theme = 'blowfish'
 
 [params]
   logo = "logo.png"
-  copyright = "© 2026 Reihaneh Hosseini <br> Last updated: May 2026"
+  copyright = "© 2026 Reihaneh Hosseini <br> Last updated: June 2026"
   disableImageZoom = true
 
 [params.homepage]
