@@ -70,3 +70,5 @@ headline = "Computational Granular & Multiphase Mechanics Research Team"
   showComments = false
   showSharingLinks = false
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
