@@ -63,7 +63,7 @@ The projects below reflect our current research efforts to advance understanding
         <source src="/videos/freezing.mp4" type="video/mp4">
       </video>
       <figcaption>
-      LBM simulation of top-down freezing of an unsaturated soil sample.
+      LBM simulation of top-down freezing of an saturated soil sample.
       </figcaption>
     </figure>
     <div>
