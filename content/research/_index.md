@@ -59,8 +59,10 @@ The projects below reflect our current research efforts to advance understanding
 
   <div class="research-content">
     <figure>
-      <img src="/images/research/thermal_3d.gif" alt="Multiphase flow">
-          <figcaption>
+      <video autoplay muted loop playsinline>
+        <source src="/videos/freezing.mp4" type="video/mp4">
+      </video>
+      <figcaption>
       LBM simulation of top-down freezing of an unsaturated soil sample.
       </figcaption>
     </figure>
