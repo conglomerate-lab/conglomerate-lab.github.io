@@ -63,11 +63,11 @@ The projects below reflect our current research efforts to advance understanding
         <source src="/videos/freezing.mp4" type="video/mp4">
       </video>
       <figcaption>
-      LBM simulation of top-down freezing of an saturated soil sample.
+      LBM simulation of top-down freezing of a saturated soil sample.
       </figcaption>
     </figure>
     <div>
-      <p>Frozen ground covers more than half of the Earth's land surface, and its mechanical behavior governs the performance of infrastructure in cold regions, from roads and pipelines to military installations in arctic environments. The thermo-hydro-mechanical behavior of freezing soils is fundamentally controlled by pore-scale processes: the distribution of ice, water, and air within the pore space, and how that distribution evolves as temperature drops. These processes are difficult to observe experimentally, leaving key mechanisms such as ice nucleation, cryogenic suction, and phase redistribution in unsaturated soils poorly understood. This project develops a pore-scale numerical framework coupling thermal LBM with multiphase LBM to simulate freezing in both saturated and unsaturated granular soils. By directly resolving phase evolution within complex pore geometries, the goal is to uncover the grain-scale mechanisms that govern frozen soil behavior and provide a foundation for more reliable predictive models in cold-region geotechnical engineering.</p>
+      <p>Frozen ground covers more than half of the Earth's land surface, and its mechanical behavior governs the performance of infrastructure in cold regions, from roads and pipelines to military installations in arctic environments. The thermo-hydro-mechanical behavior of freezing soils is fundamentally controlled by pore-scale processes: the distribution of ice, water, and air within the pore space, and how that distribution evolves as temperature drops. These processes are difficult to observe experimentally, leaving key mechanisms associated with freezing-point depression, cryogenic suction, and phase redistribution in unsaturated soils poorly understood. This project develops a pore-scale numerical framework coupling thermal LBM with multiphase LBM to simulate freezing in both saturated and unsaturated granular soils. By directly resolving phase evolution within complex pore geometries, the goal is to uncover the grain-scale mechanisms that govern frozen soil behavior and provide a foundation for more reliable predictive models in cold-region geotechnical engineering.</p>
       Sponsor: Cold Regions Research and Engineering Laboratory (ERDC-CRREL)
     </div>
   </div>
